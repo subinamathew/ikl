@@ -1,0 +1,58 @@
+baseURL = "https://injackel.netlify.app/"
+languageCode = "en"
+title = "Injackel"
+
+[params]
+    name = "Suresh Jacob John   "
+    description = "Ayurveda Health Tourism Consultant"
+    email = "info@thejacobsconsulting.com"
+    phone = "+919633277947"
+    address = "123"
+    year = 2024
+    avatar = "images/suresh.jpeg"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg_head.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+    author = "Sergey Pozhilov (GetTemplate.com)"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownloads = true
+    showClients = false
+
+    showFooterContact = false
+    showFooterFollowMe = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Case study"
+    url = "/post/"
+    weight = 5
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+
+
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/sureshjohnjacob/"
+    icon = "fab fa-linkedin"
+    footer = false
+    sharethis = true
+    network = "linkedin"

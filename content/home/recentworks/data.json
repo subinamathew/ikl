@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Somatheeram Health Resort Group",
+        "image": "https://somatheeram-c3c5.kxcdn.com/wp-content/uploads/2019/08/mega-menu-kerala-deluxe.jpg",
+        "url": "post/Somatheeram",
+        "items": [
+            {
+                "name": "Official Website",
+                "url": "https://somatheeram.org/ "
+            },
+            {
+                "name": "Read More",
+                "url": "post/Somatheeram"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Chamber of Commerce and Industrial Associations:",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQEU2ZPF-nXZ7w/feedshare-shrink_1280/feedshare-shrink_1280/0/1694625158840?e=1730937600&v=beta&t=ZKqLFGPQTQFjNkvronoPrt74bdgn96M5-tO3P2agTpI",
+        "url": "post/Chamber",
+        "items": [
+            {
+                "name": "Official Website",
+                "url": "#"
+            },
+            {
+                "name": "Read More",
+                "url": "post/Chamber"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Heritage",
+        "image": "https://www.kayalvarath.com/images/kayalvaram.jpg",
+        "url": "post/Heritage",
+        "items": [
+            {
+                "name": "Official Website",
+                "url": "https://www.kayalvarath.com/"
+            },
+            {
+                "name": "Read More",
+                "url": "post/Heritage"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Ayurveric Business",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQFDi3zjnNj8gA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1694625175714?e=1730937600&v=beta&t=tnaIVUwcFEmJKjdb0Ga0wIeMKhEzFmH9Vq3Yihf-Rp8",
+        "url": "post/Ayurveda",
+        "items": [
+            {
+                "name": "Read More",
+                "url": "post/Ayurveda"
+            }
+        ]
+    }
+]
