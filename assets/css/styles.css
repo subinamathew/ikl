@@ -256,21 +256,21 @@ a:hover {
 }
 #head .title a {
   text-decoration: none;
-  color: #333333;
+  color: #ececec;
 }
 #head .tagline {
   display: block;
   font-size: 14px;
   font-size: 0.875rem;
   line-height: 1.2em;
-  color: #7C7C7C;
+  color: #dddada;
   margin: 5px 0 0;
 }
 #head .tagline b {
   font-weight: normal;
 }
 #head .tagline a {
-  color: #5E5E5E;
+  color: #c9c9c9;
 }
 .home #head {
   padding: 90px 0;
